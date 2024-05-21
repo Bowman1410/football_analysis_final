@@ -1,0 +1,8 @@
+*__pycahce__*
+*.pyc
+
+# Ignore all files in the input_videos directory
+input_videos/*
+
+# Ignore all files in the output_videos directory
+output_videos/*
